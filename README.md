@@ -1,9 +1,13 @@
-#支持node > 8
+支持环境
+    node > 8
 
- #运行 npm install
+ 运行
+    npm install
 
- #执行 node server.js
+ 执行
+    node server.js
 
- #访问 localhost:2333/test.html
+ 访问
+    localhost:2333/test.html
 
- # crawler/trailer-list.js 是node的爬虫方法
+  crawler/trailer-list.js 是node的爬虫方法
